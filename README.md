@@ -1,2 +1,2 @@
 # cpp
-a repo on C++ programming for DSA
+a repo on python for DSA
