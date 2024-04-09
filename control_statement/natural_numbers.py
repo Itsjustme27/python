@@ -1,3 +1,4 @@
+# Function that prints natural numbers to ten using while loop.
 def natural():
     i = 1
     while i <= 10:
