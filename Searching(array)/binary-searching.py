@@ -1,4 +1,4 @@
-# binary-searching
+#  binary-searching
 def search():
     arr = [10, 20, 30]
     lower = 0
