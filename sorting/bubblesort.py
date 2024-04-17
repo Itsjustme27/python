@@ -1,4 +1,4 @@
-# Bubble sort algorithm example
+# Bubble sort algorithm example(ascending order)
 arr = []
 n = int(input("Enter range: "))
 for i in range(0, n):
