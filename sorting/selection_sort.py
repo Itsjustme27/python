@@ -12,11 +12,11 @@ def sort(arr):
         mini = arr[i]
         loc = i
         for j in range(i+1, num):
-            if arr[j] < mini: # if arr[j] > mini for descending
+            if arr[j] < mini:  # if arr[j] > mini for descending
                 mini = arr[j]
                 loc = j
 
-            if arr[loc] < arr[i]: # if arr[loc] > arr[i] for descending
+            if arr[loc] < arr[i]:  # if arr[loc] > arr[i] for descending
                 arr[i], arr[loc] = arr[loc], arr[i]
     return arr
 

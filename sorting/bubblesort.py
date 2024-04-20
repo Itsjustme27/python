@@ -9,7 +9,7 @@ for i in range(0, n):
 def sort(a):
     for i in range(0, len(a)):
         for j in range(0, len(a) - i - 1):
-            if a[j] > a[j+1]: # if a[j] < a[j+1] for descending
+            if a[j] > a[j+1]:  # if a[j] < a[j+1] for descending
                 a[j], a[j+1] = a[j+1], a[j]
 
     return a
