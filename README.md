@@ -1,2 +1,2 @@
 # python
-a repo on python for DSA
+a repo on python 
